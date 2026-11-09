@@ -34,7 +34,7 @@ AI-Interview-Assistant/
 ├── frontend/
 │   └── app.py
 │
-├── .env
+├── .env (create locally)
 ├── .gitignore
 └── README.md
 ```
@@ -44,7 +44,7 @@ AI-Interview-Assistant/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AI-Interview-Assistant.git
+git clone https://github.com/Ankitha-Sarapu/AI-Interview-Assistant.git
 ```
 
 ### 2. Navigate to the project folder
